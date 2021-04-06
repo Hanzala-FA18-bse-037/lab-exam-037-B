@@ -1,0 +1,33 @@
+
+.a1{
+    display: inline;
+    align-items: center;
+}
+
+#topbar{
+    
+}
+
+#NAVBAR li{
+    display: inline;
+    margin: 20px;
+    height: 40px;
+}
+
+#NAVBAR li a{
+    text-decoration: none;
+    color: azure;
+    
+}
+
+.abs{
+    background-color: #2c4d55;
+    margin-left: 20px;
+    margin: 0%;
+}
+
+.line{
+    height: 5px;
+    background-color: #f6b03b;
+
+}
